@@ -33,9 +33,29 @@ apt-get update
 
 cd /путь/
 
+npm -i google-tts-api
+
+npm -i vk-io
+
+npm -i fs
+
+npm -i request
+
 node LPBOT.js
 
 Если вы на Windows:
+
+Жмите WIN+R и вводите cmd. Там указываете путь к папке. Потом пишите:
+
+npm -i google-tts-api
+
+npm -i vk-io
+
+npm -i fs
+
+npm -i request
+
+После:
 
 Открываем папку, там видим файл: "LPBOT.bat", его открываете и всё.
 
@@ -52,6 +72,14 @@ apt-get install nodejs
 apt-get update
 
 cd /путь/
+
+npm -i google-tts-api
+
+npm -i vk-io
+
+npm -i fs
+
+npm -i request
 
 node LPBOT.js
 
