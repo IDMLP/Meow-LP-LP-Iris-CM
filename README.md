@@ -1,4 +1,4 @@
-# Meow-LP-LP-Iris-CM
+# Meow-LP
 
 Meow LP - LongPoll дежурный для вашей страницы.
 
