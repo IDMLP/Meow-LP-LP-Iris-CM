@@ -1,0 +1,2 @@
+node LPBOT.js
+pause
