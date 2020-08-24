@@ -303,7 +303,7 @@ vk.setOptions({ token:"ТУТВАШТОКЕН" });
 			vk.api.messages.edit({
 		    	peer_id: context.peerId,
 		    	message_id: mid,
-		    	message: `${profile[id].bot} 💬 Список сигналов: https://vk.com/@meowcm-komandy-signaly-lp\n🆘 Группа ВК: https://vk.com/meowcm\n\n\nMeow | LongPoll API Beta`
+		    	message: `${profile[id].bot} 💬 Список сигналов: https://vk.com/@198168797-komandy-signaly-lp\n🆘 Группа ВК: https://vk.com/club198168797\n\n\nMeow | LongPoll API Beta`
 			});
 		} catch { context.reply(`${profile[id].bot} Произошла ошибка!`) }
 	});
@@ -317,12 +317,13 @@ vk.setOptions({ token:"ТУТВАШТОКЕН" });
 			vk.api.messages.edit({
 		    	peer_id: context.peerId,
 		    	message_id: mid,
-		    	message: `${profile[id].bot} 🖥 LP v. 1.3.2 CUSTOM 🖥
+		    	message: `${profile[id].bot} 🖥 LP v. 1.3.3 CUSTOM 🖥
 
 📚 Команды: .хелп 📚
 ✨ Разработчик кастом версии: [iris_duty_2020|Славка Андреев] ✨
 📲 Дата последнего обновления: 24.08.2020 📲
-🎃 Разработчик официальной версии -[lalalalalalala247364|Роман Романов]. 🎃
+🎃 Разработчик официальной версии - [iris_duty_2020|Славка Андреев]. 🎃
+👨‍💻 Помогал в тестировании: [lalalalalalala247364|Роман Романов] 👨‍💻
 🦠 Данные о коронавирусе: [coronavirus-monitor.ru/statistika|тут] 🦠
 👨‍💻 Агенты ТП <<Meow>> - .агенты 👨‍💻
 
