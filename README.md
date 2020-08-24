@@ -19,6 +19,7 @@ Meow LP - LongPoll дежурный для вашей страницы.
 ОБЩИЙ ШАГ:
 
 10. Сохраняем оба файла.
+
 11. Заходим в корень папки (/) и запускаем LP.
 
 ЗАПУСК: 
@@ -26,8 +27,11 @@ Meow LP - LongPoll дежурный для вашей страницы.
 Если вы на LINUX/macOS/Debian/Kali/и т.д.:
 
 apt-get install nodejs
+
 apt-get update
+
 cd /путь/
+
 node LPBOT.js
 
 Если вы на Windows:
@@ -37,12 +41,17 @@ node LPBOT.js
 ЕСЛИ ВЫ С ANDROID [NEW]
 
 Скачиваете Termux в Play Market.
+
 Заходите в Termux.
+
 В термуксе пишите:
 
 apt-get install nodejs
+
 apt-get update
+
 cd /путь/
+
 node LPBOT.js
 
 ВНИМАНИЕ/WARNING: ЕСЛИ У ВАС В TERMUX НА КЛАВИАТУРЕ НАЖИМАЮТСЯ НЕ ТЕ КЛАВИШИ СКАЧАЙТЕ ТАК-ЖЕ В ПЛЕЙ МАРКЕТЕ: Hacker Keyboard.
