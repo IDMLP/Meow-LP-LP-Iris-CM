@@ -363,7 +363,7 @@ vk.setOptions({ token:"TYTTOKEN" });
 			vk.api.messages.edit({
 		    	peer_id: context.peerId,
 		    	message_id: mid,
-		    	message: `${profile[id].bot} 📖 Ссылка на этот LP в гит хаб 1.3.5: https://github.com/samids/Meow-LP-Bot-vk-iris-cm-long-poll 📖`
+		    	message: `${profile[id].bot} 📖 Ссылка на этот LP в гит хаб 1.3.5: https://github.com/samids/Meow-LP-Iris-CM-vk-long-poll 📖`
 			});
 		} catch { context.reply(`${profile[id].bot} Произошла ошибка!`) }
 	});
