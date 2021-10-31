@@ -1,4 +1,4 @@
-﻿const { VK } = require('vk-io');
+const { VK } = require('vk-io');
 const vk = new VK();
 const fs = require('fs');
 const request = require('request');
