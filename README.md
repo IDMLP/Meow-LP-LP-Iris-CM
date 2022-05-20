@@ -1,4 +1,4 @@
-# Meow-LP
+# Meow-LP (gc old) 
 
 Meow LP - LongPoll дежурный для вашей страницы.
 
